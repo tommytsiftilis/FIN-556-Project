@@ -58,7 +58,6 @@ Key metrics for evaluating the strategy include:
 ### Cumulative Profit and Loss (PnL)
 Tracks the overall profitability of the strategy over time.
 
-Cumulative PnL over Time
 <img width="773" alt="image" src="https://github.com/user-attachments/assets/2b5355e6-b6cb-4429-8966-6ebf7dea22f9" />
 
 
