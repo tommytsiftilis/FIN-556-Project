@@ -1,6 +1,6 @@
 # Introduction
 
-The objective of this report is to evaluate the performance of a trading strategy implemented using the Strategy Studio platform. This strategy employs two core technical indicators, **VWAP (Volume Weighted Average Price)** and **Bollinger Bands**, to make automated trading decisions. The strategy buys or sells based on the price's position relative to these indicators, aiming to capture profitable opportunities when markets are volatile. The strategy is fully automated and tracks real-time price and volume data to make decisions.
+While in this scenario, it was ultimately not profitable, the objective of this report is to evaluate the performance of a trading strategy implemented using the Strategy Studio platform. This strategy employs two core technical indicators, **VWAP (Volume Weighted Average Price)** and **Bollinger Bands**, to make automated trading decisions. The strategy buys or sells based on the price's position relative to these indicators, aiming to capture profitable opportunities when markets are volatile. The strategy is fully automated and tracks real-time price and volume data to make decisions.
 
 The performance of this strategy is assessed using real trading data, which includes executed orders, price data, and cumulative profit and loss over time. The goal is to understand how effectively the strategy performs in various market conditions and evaluate the strategy's overall profitability, trade execution, and adherence to its intended trading logic.
 
@@ -77,4 +77,4 @@ Compares trade prices with VWAP and Bollinger Bands to evaluate adherence to tra
 
 # Conclusion
 
-The strategy uses VWAP and Bollinger Bands to identify overbought and oversold conditions. While the strategy captures trends effectively, further optimizations (e.g., position sizing, slippage management) could enhance performance in varied market environments.
+The strategy uses VWAP and Bollinger Bands to identify overbought and oversold conditions. While the strategy was not profitable according to the backtesting results, further optimizations (e.g., position sizing, slippage management) could enhance performance in varied market environments.
